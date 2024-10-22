@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(15, 24, 37);
+    padding:0px;
+    margin:0;
+    color: white;
+}
+.navbar{
+   display:flex;
+   justify-content: space-between;
+   align-items: center;
+   color:white;
+   padding-left:100px;
+   padding-right:100px;
+   cursor: pointer;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.footer{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+    padding-left:100px;
+    padding-right:100px;
+    cursor: pointer;
+    font-size: larger;
+    height:90vh;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
