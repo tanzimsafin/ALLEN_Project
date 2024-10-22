@@ -23,7 +23,7 @@ function Layout() {
   return (
     <div className="navbar">
       <Link to="/" style={{ fontSize:"30px",fontWeight: "bold", textDecoration: "none"}}>
-        ALLEN
+        ALLEN        git commit -m "Add your commit message here"
       </Link>
       <Link style={{ textDecoration: "none" }} to="/exam">
         Exams
